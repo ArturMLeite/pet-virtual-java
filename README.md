@@ -16,7 +16,6 @@ Você poderá:
 - ✅ Praticar **classes, objetos e métodos em Java**  
 - ✅ Treinar uso de **Scanner para entrada de dados**  
 - ✅ Praticar `switch-case`, `do-while` e controle de estado  
-- ✅ Criar um projeto divertido e prático para seu portfólio no GitHub
 
 ---
 
