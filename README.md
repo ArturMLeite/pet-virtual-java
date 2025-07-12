@@ -54,6 +54,8 @@ Zeca foi alimentado 😋! Energia atual: 60
 
 Java (8)
 
+---
+
 # 📜 Licença
 
 Projeto sob a licença MIT.
