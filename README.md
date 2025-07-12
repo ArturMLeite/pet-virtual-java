@@ -48,6 +48,7 @@ Escolha: 1
 
 Zeca foi alimentado 😋! Energia atual: 60
 ```
+---
 
 # 🛠️ Tecnologias utilizadas
 
