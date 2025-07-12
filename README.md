@@ -3,20 +3,20 @@
 Um **mini Tamagotchi em Java** para a pratica dos meus estudos em programação orientada a objetos, controle de fluxo e manipulação de variáveis.
 
 Você poderá:
-✅ Dar um nome ao seu pet  
-✅ Alimentar o pet (+10 energia)  
-✅ Colocar o pet para dormir (+15 energia)  
-✅ Brincar com o pet (-10 energia)  
-✅ Visualizar o status de energia em tempo real
+- ✅ Dar um nome ao seu pet  
+- ✅ Alimentar o pet (+10 energia)  
+- ✅ Colocar o pet para dormir (+15 energia)  
+- ✅ Brincar com o pet (-10 energia)  
+- ✅ Visualizar o status de energia em tempo real
 
 ---
 
 ## 🎯 Objetivos
 
-✅ Praticar **classes, objetos e métodos em Java**  
-✅ Treinar uso de **Scanner para entrada de dados**  
-✅ Praticar `switch-case`, `do-while` e controle de estado  
-✅ Criar um projeto divertido e prático para seu portfólio no GitHub
+- ✅ Praticar **classes, objetos e métodos em Java**  
+- ✅ Treinar uso de **Scanner para entrada de dados**  
+- ✅ Praticar `switch-case`, `do-while` e controle de estado  
+- ✅ Criar um projeto divertido e prático para seu portfólio no GitHub
 
 ---
 
