@@ -13,8 +13,8 @@ Você poderá:
 
 ## 🎯 Objetivos
 
-- ✅ Praticar **classes, objetos e métodos em Java**  
-- ✅ Treinar uso de **Scanner para entrada de dados**  
+- ✅ Pratica de **classes, objetos e métodos em Java**  
+- ✅ Treino de uso de **Scanner para entrada de dados**  
 - ✅ Praticar `switch-case`, `do-while` e controle de estado  
 
 ---
